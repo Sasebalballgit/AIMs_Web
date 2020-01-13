@@ -1557,6 +1557,7 @@
 
 	body {
 		-ms-overflow-style: scrollbar;
+		
 	}
 
 	@media screen and (max-width: 480px) {
@@ -1569,6 +1570,7 @@
 
 	body {
 		background: #fff;
+		
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2895,7 +2897,7 @@
 			}
 
 		.wrapper.style1 {
-			background-color: #fafafa;
+			background-color:#f0f8ff;
 			color: #999999;
 		}
 
